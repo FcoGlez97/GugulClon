@@ -21,7 +21,7 @@ header nav {
     justify-content: flex-end;
 }
 
-header nav .nav-Seccion_Derecha {
+header nav .nav-rightsection {
 width: 250px;
 height: auto;
 display: flex;
@@ -30,12 +30,12 @@ justify-content: center;
 align-items: center;
 }
 
-nav .nav-Seccion_Derecha a{
+nav .nav-rightsection a{
     margin-right: 25px;
     color: black;
 }
 
-.Icono_Apps{
+.icon_app{
         background-image: url('https://raw.githubusercontent.com/FcoGlez97/GugulClon/main/GugulClon/Resources/Apps.png');
         background-repeat: no-repeat;
         background-position: center;
@@ -43,7 +43,7 @@ nav .nav-Seccion_Derecha a{
         width: 26px;
         height: 26px;
     }
-.Icono_Usuario{
+.icon_user{
         background-image: url('https://raw.githubusercontent.com/FcoGlez97/GugulClon/main/GugulClon/Resources/User.jpg');
         background-repeat: no-repeat;
         background-position: center;
@@ -56,18 +56,18 @@ main{
     text-align: center;
 }
 
-main .Logo_GugulClon{
-    width: 530px;
+main .logo{
+    width: 550px;
     margin: 0 auto;
     margin-bottom: 35px;
 }
 
-main .Logo_GugulClon img{
-    width: 330px;
+main .logo img{
+    width: 550px;
     height: 120px;
 }
 
-main .Ingresa_Busqueda{
+main .inputsrch{
     width: 530px;
     margin: 0 auto;
     margin-bottom: 35px;
@@ -82,7 +82,7 @@ main .main-input-container{
     align-items: center;
 }
 
-main .Ingresa_Busqueda input{
+main .inputsrch input{
     width: 450px;
     height: 40px;
     border: none;
@@ -94,7 +94,7 @@ main .main-input-container:hover{
     border-color: #dfe1e500;
 }
 
-main .Ingresa_Busqueda .Icono_Busqueda{
+main .inputsrch .iconsrch{
     background-image: url('https://raw.githubusercontent.com/FcoGlez97/GugulClon/main/GugulClon/Resources/Search.png');
     background-repeat: no-repeat;
     background-position: center;
@@ -104,7 +104,7 @@ main .Ingresa_Busqueda .Icono_Busqueda{
 
 }
 
-main .Ingresa_Busqueda .Icono_Microfono{
+main .inputsrch .iconmic{
     background-image: url('https://raw.githubusercontent.com/FcoGlez97/GugulClon/main/GugulClon/Resources/Mic.png');
     background-repeat: no-repeat;
     background-position: center;
@@ -114,7 +114,7 @@ main .Ingresa_Busqueda .Icono_Microfono{
     cursor: pointer;
 }
 
-main .Ingresa_Busqueda .Icono_Lens{
+main .inputsrch .iconlens{
     background-position: center;
     background-size: contain;
     width: 18px;
@@ -122,7 +122,7 @@ main .Ingresa_Busqueda .Icono_Lens{
 
 }
 
-main .Ingresa_Busqueda .Icono_Lens{
+main .inputsrch .iconlens{
     background-image: url('https://raw.githubusercontent.com/FcoGlez97/GugulClon/main/GugulClon/Resources/Lens.png');
     background-repeat: no-repeat;
     background-position: center;

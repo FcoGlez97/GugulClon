@@ -35,24 +35,22 @@ nav .nav-Seccion_Derecha a{
     color: black;
 }
 
-nav .nav-Seccion_Derecha .Icono_Apps{
-    background-image: url('https://raw.githubusercontent.com/FcoGlez97/GugulClon/main/GugulClon/Resources/12143655.png');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
-    width: 26px;
-    height: 26px;
-}
-
-nav .nav-Seccion_Derecha .Icono_Usuario{
-    background-image: url('https://raw.githubusercontent.com/FcoGlez97/GugulClon/main/GugulClon/Resources/illustration-of-human-icon-user-symbol-icon-modern-design-on-blank-background-free-vector.jpg');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
-    width: 30px;
-    height: 30px;
-}
-
+.Icono_Apps{
+        background-image: url('https://raw.githubusercontent.com/FcoGlez97/GugulClon/main/GugulClon/Resources/Apps.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;
+        width: 26px;
+        height: 26px;
+    }
+.Icono_Usuario{
+        background-image: url('https://raw.githubusercontent.com/FcoGlez97/GugulClon/main/GugulClon/Resources/User.jpg');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;
+        width: 26px;
+        height: 26px;
+    }
 main{
     margin-top: 150px;
     text-align: center;
@@ -97,7 +95,7 @@ main .main-input-container:hover{
 }
 
 main .Ingresa_Busqueda .Icono_Busqueda{
-    background-image: url('https://raw.githubusercontent.com/FcoGlez97/GugulClon/main/GugulClon/Resources/3128287.png');
+    background-image: url('https://raw.githubusercontent.com/FcoGlez97/GugulClon/main/GugulClon/Resources/Search.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -107,7 +105,7 @@ main .Ingresa_Busqueda .Icono_Busqueda{
 }
 
 main .Ingresa_Busqueda .Icono_Microfono{
-    background-image: url('https://raw.githubusercontent.com/FcoGlez97/GugulClon/main/GugulClon/Resources/png-transparent-google-mic-google-s-logo-icon.png');
+    background-image: url('https://raw.githubusercontent.com/FcoGlez97/GugulClon/main/GugulClon/Resources/Mic.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -125,7 +123,7 @@ main .Ingresa_Busqueda .Icono_Lens{
 }
 
 main .Ingresa_Busqueda .Icono_Lens{
-    background-image: url('https://raw.githubusercontent.com/FcoGlez97/GugulClon/main/GugulClon/Resources/Google_Lens_Icon.svg.png');
+    background-image: url('https://raw.githubusercontent.com/FcoGlez97/GugulClon/main/GugulClon/Resources/Lens.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;

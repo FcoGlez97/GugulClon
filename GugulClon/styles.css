@@ -178,6 +178,10 @@ footer .ft_rgt
 {
     justify-self: right;
 }
+footer .ft_lft_up
+{
+    justify-self: left;
+}
 footer ul li a 
 {
     margin: 15px;

@@ -21,7 +21,7 @@ header nav {
     justify-content: flex-end;
 }
 
-header nav .nav-rightsection {
+header nav .rightsection {
 width: 250px;
 height: auto;
 display: flex;
@@ -170,11 +170,11 @@ footer ul
     display: flex;
     padding-left: 0;
 }
-footer .footer-left 
+footer .ft_lft
 {
     justify-self: left;
 }
-footer .footer-right 
+footer .ft_rgt
 {
     justify-self: right;
 }
